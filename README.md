@@ -1,26 +1,36 @@
-# -Octernship_OS_Contributor_assignment
- Octernship OS Contributor Intern assignment
+# Octernship_Open_source_Contributor_assignment
+Octernship Open source Contributor assignment
 # Information
 
-## COMPANY-NAME
+## GARI-Network
 
-![Company Logo](IMAGE-URL)
+![Company Logo](https://drive.google.com/file/d/1o3XgJVfJOepMH2gWLXOcZeJufWkGDZ9-/view?usp=share_link)
 
 ### Company information 
 
-&lt;!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
+Chingari, powered by GARI is India’s fastest-growing short-video app launched in 2018. Since then, the home-grown app has emerged as the one-stop destination for entertaining, engaging videos across diverse categories such as dancing, singing, transformation, innovative skills, etc. Chingari’s eclectic platform entertains 130M+ users across India, and witnesses videos in 15+ languages.
 
-### Why participate in an Octernship with COMPANY-NAME
+$GARI Social Token, was launched by Chingari- India’s fastest growing short-video app in 2021. With a combined community of 130M+ and growing, $GARI was introduced as a social token for the Chingari creators to create engaging content and for users to engage with the content. These tokens are not only tradeable for their local currency but also provide governance authority over Chingar’s future developments.
 
-&lt;!--- Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc. --->
+### Why participate in an Octernship with Chingari/ GARI
+
+An Internship program would be an all hands on deck program with a lot more working freedom since you will be working with the core builder team of Chingari & Gari Network. A monthly stipend is involved, with a suitable duration concerning the Internship.
+Our interns will be given full autonomy, allowing them to decide whatever they want to do, experiment, and ask a lot of questions, and we will encourage and push our interns to succeed.
 
 ### Octernship role description
 
-&lt;!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
+* Work to conceptualize and develop innovative and impactful designs for various mediums, such as websites, print materials, advertisements, product packaging, and more
+* Collaborate with teams including writers, marketers, and developers to ensure that designs meet the project's objectives...
+* Use graphic design software and work with a wide variety of media 
+* Collaborate with the Creative Director and Graphic Design Manager to develop design concepts 
+* Receive feedback from the Creative Director and Graphic Design Manager and make necessary changes 
+* Assemble final presentation material for printing as needed Requirements 
+* Graphic Design major preferred 
+* Basic knowledge of layouts, typography, line composition, color...
 
 ### Recommended qualifications
 
-&lt;!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
+[ # ] Can you get the work done? Cool that sufficient you are in.
 
 ### Eligibility
 
@@ -32,17 +42,33 @@ To participate, you must be:
 
 * Active contributor on GitHub (monthly)
 
-# Assignment
+* Accepts Stipend in Crypto
+
+* Are available for duration of 4-6 months.  
+
+* Have relevant skills and interests
+
+# Assignment 
 
 ## TASK-TITLE
 
-### Task instructions
+GARI Design Intern Task
 
-&lt;!--- Use this section to describe the project that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary. --->
+### Task instructions (any 1 of 2)
+
+* Redesign Web home screen of Chingari Dapp to be used as a community owned & maintained Chingari Multi chain dapp to check the basic user flow & functionallity offered by Chingari Can refer to the resorces.
+
+* Create Gari XNFT Screen with home page similar to GARI VNFT mobile screen. Menu option should contain Screens for a NFT Gallery displayings user's all NFT Holding & a GAME Zone screen with multiple game cards on a infinite scroll & every Game card will have 2 CTA buttons Of play for free & Bet & play. 
 
 ### Task Expectations
 
-&lt;!--- Please add expectations that students need to follow to be considered. Some examples include: completing the project on their own, not using code from external resources without comprehending the logic, etc.  --->
+Color Sense: The expectation is to see how well the apilacant can work with colors and use them to create a visually appealing and harmonious design. The employee should demonstrate an understanding of color theory, the ability to choose complementary and contrasting colors, and create a cohesive color palette for the design.
+
+UX Design: The expectation is to assess the employee's ability to design an intuitive and user-friendly interface that takes into consideration the user's needs and preferences. The employee should demonstrate an understanding of the principles of user-centered design, create a clear and consistent visual hierarchy, and design interactions that are easy to understand and use.
+
+Creativity: The expectation is to see the employee's creativity in designing an original and innovative interface that stands out from other designs. The employee should be able to think outside the box and come up with new and interesting design solutions that meet the project's objectives.
+
+Attention to Detail: The expectation is to assess the employee's attention to detail in the design process. The employee should be able to create a high-quality design with pixel-perfect precision and ensure that all elements are aligned, balanced, and consistent.
 
 ### Task submission
 
@@ -56,4 +82,11 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 
 ### Resources
 
-&lt;!--- Use this section to add resources for students to refer to. For example Documentation, Tutorials, Guides, and more.  --->
+Chingari:https://chingari.io
+GARI: https://gari.network
+
+Some of the good Visual designs in web3
+https://beta.layer3.xyz
+https://push.org
+https://www.antiersolutions.com
+https://www.protokol.com

@@ -19,18 +19,11 @@ Our interns will be given full autonomy, allowing them to decide whatever they w
 
 ### Octernship role description
 
-* Work to conceptualize and develop innovative and impactful designs for various mediums, such as websites, print materials, advertisements, product packaging, and more
-* Collaborate with teams including writers, marketers, and developers to ensure that designs meet the project's objectives...
-* Use graphic design software and work with a wide variety of media 
-* Collaborate with the Creative Director and Graphic Design Manager to develop design concepts 
-* Receive feedback from the Creative Director and Graphic Design Manager and make necessary changes 
-* Assemble final presentation material for printing as needed Requirements 
-* Graphic Design major preferred 
-* Basic knowledge of layouts, typography, line composition, color...
+* 
 
 ### Recommended qualifications
 
-[ # ] Can you get the work done? Cool that sufficient you are in.
+[ # ] Can you get the work done? Cool, that sufficient for us you are in.
 
 ### Eligibility
 
@@ -52,7 +45,7 @@ To participate, you must be:
 
 ## TASK-TITLE
 
-GARI Design Intern Task
+GARI Open Sorce contributor Task
 
 ### Task instructions (any 1 of 2)
 

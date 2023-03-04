@@ -16,14 +16,24 @@ $GARI Social Token, was launched by Chingari- India’s fastest growing short-vi
 
 An Internship program would be an all hands on deck program with a lot more working freedom since you will be working with the core builder team of Chingari & Gari Network. A monthly stipend is involved, with a suitable duration concerning the Internship.
 Our interns will be given full autonomy, allowing them to decide whatever they want to do, experiment, and ask a lot of questions, and we will encourage and push our interns to succeed.
+We offer a challenging work environment, flexible work hours, and an opportunity to learn and grow in a dynamic startup environment. If you are passionate about open-source contribution and blockchain technology, we encourage you to apply.
 
 ### Octernship role description
 
-* 
+* We are seeking a talented and motivated intern to join our team as an Open Source Contribution and Blockchain Intern. As a member of our team, you will be responsible for maintaining our company's open source contribution on Github, as well as helping to develop and implement blockchain-related projects.
 
 ### Recommended qualifications
 
-[ # ] Can you get the work done? Cool, that sufficient for us you are in.
+* Strong understanding of Git and Github
+* Familiarity with blockchain technology, particularly Ethereum and Solana
+* Experience developing and contributing to open source projects
+* Strong programming skills in at least one programming language, such as Python or Javascript
+* Strong problem-solving and analytical skills
+* Excellent communication and collaboration skills
+* Ability to work independently and manage your own time effectively
+* Pursuing a degree in Computer Science or related field
+
+* Experience with blockchain technology through coursework or personal projects
 
 ### Eligibility
 
@@ -33,7 +43,7 @@ To participate, you must be:
 
 * 18 years or older
 
-* Active contributor on GitHub (monthly)
+* Active contributor on GitHub (monthly) 
 
 * Accepts Stipend in Crypto
 
@@ -47,21 +57,14 @@ To participate, you must be:
 
 GARI Open Sorce contributor Task
 
-### Task instructions (any 1 of 2)
+### Task instructions (any 2 of 3)
 
-* Redesign Web home screen of Chingari Dapp to be used as a community owned & maintained Chingari Multi chain dapp to check the basic user flow & functionallity offered by Chingari Can refer to the resorces.
+* Chingari's Lite Version on Aptos Architecture Flow: The intern will be responsible for creating a detailed architecture flow for Chingari's lite version on Aptos. This will include identifying the different components of the lite version, designing the system architecture, and providing insights on how the system will work.
 
-* Create Gari XNFT Screen with home page similar to GARI VNFT mobile screen. Menu option should contain Screens for a NFT Gallery displayings user's all NFT Holding & a GAME Zone screen with multiple game cards on a infinite scroll & every Game card will have 2 CTA buttons Of play for free & Bet & play. 
+* Chingari's Video NFT Marketplace Clone on Aptos: The intern will be responsible for creating a clone of Chingari's video NFT marketplace on Aptos. The intern will start with the functionality where users can come and mint their video NFT on Aptos, and the video is stored on any decentralized storage.
 
-### Task Expectations
+* Restructuring GDD's & GARI Networks GitHub Page: The intern will be responsible for restructuring the GDD's & GARI networks GitHub page. This will include improving the documentation and pointing out any missing information & additions. The intern will work closely with the development team to ensure that the GitHub page is up-to-date and easy to navigate.
 
-Color Sense: The expectation is to see how well the apilacant can work with colors and use them to create a visually appealing and harmonious design. The employee should demonstrate an understanding of color theory, the ability to choose complementary and contrasting colors, and create a cohesive color palette for the design.
-
-UX Design: The expectation is to assess the employee's ability to design an intuitive and user-friendly interface that takes into consideration the user's needs and preferences. The employee should demonstrate an understanding of the principles of user-centered design, create a clear and consistent visual hierarchy, and design interactions that are easy to understand and use.
-
-Creativity: The expectation is to see the employee's creativity in designing an original and innovative interface that stands out from other designs. The employee should be able to think outside the box and come up with new and interesting design solutions that meet the project's objectives.
-
-Attention to Detail: The expectation is to assess the employee's attention to detail in the design process. The employee should be able to create a high-quality design with pixel-perfect precision and ensure that all elements are aligned, balanced, and consistent.
 
 ### Task submission
 
@@ -78,8 +81,6 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 Chingari:https://chingari.io
 GARI: https://gari.network
 
-Some of the good Visual designs in web3
-https://beta.layer3.xyz
-https://push.org
-https://www.antiersolutions.com
-https://www.protokol.com
+https://business.gari.network
+https://github.com/gari-network
+https://github.com/Gari-Dev-DAO

@@ -73,7 +73,12 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 1. Making changes on the auto generated `feedback` branch to complete the task
 2. Using the auto generated **Feedback Pull Request** for review and submission
 3. Using GitHub Discussions to ask any relevant questions regarding the project
-### Resources
+
+| Octernship info  | Timelines and Stipend |
+| ------------- | ------------- |
+| Assignment Deadline  | 20 March 2023  |
+| Octernship Duration  | 4 Months  |
+| Monthly Stipend  | $500 USD  |
 
 ### Resources
 
